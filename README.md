@@ -1,3 +1,9 @@
+# Author
+Zhang Qingang <br />
+Department of Mechanical Engineering, National University of Singapore <br />
+Email: zhangqingang@u.nus.edu <br />
+Date: 10 May 2022
+
 # Project Description
 
 This project integrates Residual Physics with Deep Reinforcement Learning algorithms for the dynamic thermal management 
@@ -41,8 +47,6 @@ You can select the following choices according to the instruction in the termina
 # Other References
 - [PPO-Lag](https://github.com/akjayant/PPO_Lagrangian_PyTorch)
 - [SAC-Lag](https://github.com/openai/safety-starter-agents)
-
-The project is still ongoing. :-)
 
 
 
